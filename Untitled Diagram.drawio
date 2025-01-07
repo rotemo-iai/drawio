@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2022" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="FB623YIGrblfkWQ-ev6F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="FB623YIGrblfkWQ-ev6F-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;נסיון לוגין לאקטיב דירקטורי&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;נסיון לוגין לAAD&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FB623YIGrblfkWQ-ev6F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-0" target="WIyWlLk6GJQsqaUBKTNV-3">
@@ -43,8 +43,11 @@
         <mxCell id="FB623YIGrblfkWQ-ev6F-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-8" target="FB623YIGrblfkWQ-ev6F-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-8" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;עמוד &quot;הפרופיל העסקי שלי&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-8" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;homepage&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FB623YIGrblfkWQ-ev6F-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-10" target="FB623YIGrblfkWQ-ev6F-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FB623YIGrblfkWQ-ev6F-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;מסך לוגין&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
@@ -87,9 +90,9 @@
             <mxPoint x="500" y="725" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-55" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;איזה כפתורים מופיעים בעמוד זה&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-32" target="FB623YIGrblfkWQ-ev6F-65">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-55" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;איזה כפתורים מופיעים בעמוד זה&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-32" target="FB623YIGrblfkWQ-ev6F-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="870" as="targetPoint" />
+            <mxPoint x="130" y="860" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="820" />
             </Array>
@@ -152,20 +155,6 @@
         </mxCell>
         <mxCell id="FB623YIGrblfkWQ-ev6F-52" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;חלון &quot;ההזמנה נשלחה &quot;בהצלחה&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" y="1120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-70" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-65" target="FB623YIGrblfkWQ-ev6F-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-72" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-65" target="FB623YIGrblfkWQ-ev6F-73">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="1050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-65" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;האם יש נתונים?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="860" width="100" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;אין כפתורים&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-110" y="885" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FB623YIGrblfkWQ-ev6F-75" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-73" target="FB623YIGrblfkWQ-ev6F-74">
           <mxGeometry relative="1" as="geometry" />
