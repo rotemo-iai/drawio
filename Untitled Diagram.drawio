@@ -285,6 +285,9 @@
         <mxCell id="FB623YIGrblfkWQ-ev6F-132" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.map;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="-80" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FB623YIGrblfkWQ-ev6F-133" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;חלונית הודעה&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#60A917,#6D94FF);fontColor=#ffffff;strokeColor=#2D7600;fillStyle=dots;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
