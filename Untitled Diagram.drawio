@@ -55,10 +55,15 @@
         <mxCell id="FB623YIGrblfkWQ-ev6F-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-15" target="FB623YIGrblfkWQ-ev6F-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FB623YIGrblfkWQ-ev6F-96" value="type = 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FB623YIGrblfkWQ-ev6F-20">
+          <mxGeometry x="-0.2548" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FB623YIGrblfkWQ-ev6F-15" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על כפתור &quot;הזמנת כרטיס ביקור פיזי&quot; (B)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-17" target="FB623YIGrblfkWQ-ev6F-19">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-24" value="type = 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-17" target="FB623YIGrblfkWQ-ev6F-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FB623YIGrblfkWQ-ev6F-17" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על כפתור &quot;חתימה&amp;nbsp; במייל החיצוני&quot; (A)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
