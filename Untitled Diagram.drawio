@@ -1,22 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2336" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="FB623YIGrblfkWQ-ev6F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="FB623YIGrblfkWQ-ev6F-4">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="FB623YIGrblfkWQ-ev6F-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;נסיון לוגין לAAD&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-0" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-0" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-0" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="50" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-7" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.055;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-7" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.055;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="184.39999999999998" y="200.12" as="sourcePoint" />
             <mxPoint x="80.02857142857135" y="251" as="targetPoint" />
@@ -25,77 +25,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-9" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-4" target="FB623YIGrblfkWQ-ev6F-8">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-9" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-4" target="FB623YIGrblfkWQ-ev6F-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;האם הלוגין מוצלח&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;האם הלוגין מוצלח&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-6" target="FB623YIGrblfkWQ-ev6F-10">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-6" target="FB623YIGrblfkWQ-ev6F-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;מסך שגיאה עם אפשרות להתחבר שנית&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60a917;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;מסך שגיאה עם אפשרות להתחבר שנית&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60a917;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-8" target="FB623YIGrblfkWQ-ev6F-15">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-8" target="FB623YIGrblfkWQ-ev6F-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-8" target="FB623YIGrblfkWQ-ev6F-17">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-8" target="FB623YIGrblfkWQ-ev6F-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-8" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;homepage&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#60A917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=dots;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-8" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;homepage&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#60A917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=dots;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-10" target="FB623YIGrblfkWQ-ev6F-4">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-10" target="FB623YIGrblfkWQ-ev6F-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;מסך לוגין&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60a917;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;מסך לוגין&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60a917;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-15" target="FB623YIGrblfkWQ-ev6F-19">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-15" target="FB623YIGrblfkWQ-ev6F-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-96" value="type = 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FB623YIGrblfkWQ-ev6F-20">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-96" value="type = 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FB623YIGrblfkWQ-ev6F-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2548" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-15" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על כפתור &quot;הזמנת כרטיס ביקור פיזי&quot; (B)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-15" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על כפתור &quot;הזמנת כרטיס ביקור פיזי&quot; (B)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-24" value="type = 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-17" target="FB623YIGrblfkWQ-ev6F-19">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-24" value="type = 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-17" target="FB623YIGrblfkWQ-ev6F-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-17" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על כפתור &quot;חתימה&amp;nbsp; במייל החיצוני&quot; (A)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-17" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על כפתור &quot;חתימה&amp;nbsp; במייל החיצוני&quot; (A)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-26" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-19" target="FB623YIGrblfkWQ-ev6F-25">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-26" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-19" target="FB623YIGrblfkWQ-ev6F-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-28" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-19" target="FB623YIGrblfkWQ-ev6F-34">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-28" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-19" target="FB623YIGrblfkWQ-ev6F-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-19" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;האם מולא טופס&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;עדכון נתונים?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-19" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;האם מולא טופס&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;עדכון נתונים?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="450" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-31" value="הבנתי" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-25" target="FB623YIGrblfkWQ-ev6F-19">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-31" value="הבנתי" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-25" target="FB623YIGrblfkWQ-ev6F-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-25" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;הודעת &quot;שמנו לב שחסרים לך נתונים..&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-25" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;הודעת &quot;שמנו לב שחסרים לך נתונים..&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-33" value="A" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FB623YIGrblfkWQ-ev6F-32">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-33" value="A" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FB623YIGrblfkWQ-ev6F-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="725" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-55" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;איזה כפתורים מופיעים בעמוד זה&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-32" target="FB623YIGrblfkWQ-ev6F-73">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-55" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;איזה כפתורים מופיעים בעמוד זה&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-32" target="FB623YIGrblfkWQ-ev6F-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="860" as="targetPoint" />
             <Array as="points">
@@ -103,48 +103,48 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-32" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;עמוד &quot;מייל חיצוני&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-32" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;עמוד &quot;מייל חיצוני&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="790" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-36" value="B" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-34" target="FB623YIGrblfkWQ-ev6F-35">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-36" value="B" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-34" target="FB623YIGrblfkWQ-ev6F-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-34" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;?איזה כפתור נלחץ&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-34" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;?איזה כפתור נלחץ&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="670" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-39" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על &quot;הורדה כ&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PDF&quot;&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-35">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-39" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על &quot;הורדה כ&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PDF&quot;&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-41" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על &quot;הזמנה&quot;&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-35" target="FB623YIGrblfkWQ-ev6F-40">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-41" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;לחיצה על &quot;הזמנה&quot;&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-35" target="FB623YIGrblfkWQ-ev6F-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-35" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;עמוד &quot;card/signature preivew&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-35" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;עמוד &quot;card/signature preivew&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-40" target="FB623YIGrblfkWQ-ev6F-48">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-40" target="FB623YIGrblfkWQ-ev6F-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-40" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;חלון &quot;ההזמנה נשלחה &quot;בהצלחה&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-40" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;חלון &quot;ההזמנה נשלחה &quot;בהצלחה&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-42" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;יורד קובץ PDF&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-42" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;יורד קובץ PDF&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-44" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-43" target="FB623YIGrblfkWQ-ev6F-42">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-44" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-43" target="FB623YIGrblfkWQ-ev6F-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-47" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-43" target="FB623YIGrblfkWQ-ev6F-46">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-47" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-43" target="FB623YIGrblfkWQ-ev6F-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-43" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;האם ההורדה&lt;br&gt;? הצליחה&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-43" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;האם ההורדה&lt;br&gt;? הצליחה&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="910" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;הודעת שגיאה כללי&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;הודעת שגיאה כללי&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-51" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-48" target="FB623YIGrblfkWQ-ev6F-46">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-51" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-48" target="FB623YIGrblfkWQ-ev6F-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="1015" />
@@ -152,141 +152,141 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-53" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-48" target="FB623YIGrblfkWQ-ev6F-52">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-53" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-48" target="FB623YIGrblfkWQ-ev6F-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-48" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;האם השליחה&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;הצליחה?&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-48" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;האם השליחה&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;הצליחה?&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="960" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-52" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;חלון &quot;ההזמנה נשלחה &quot;בהצלחה&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-52" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;חלון &quot;ההזמנה נשלחה &quot;בהצלחה&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="890" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-75" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-73" target="FB623YIGrblfkWQ-ev6F-74">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-75" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-73" target="FB623YIGrblfkWQ-ev6F-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-77" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-73" target="FB623YIGrblfkWQ-ev6F-78">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-77" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-73" target="FB623YIGrblfkWQ-ev6F-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-73" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;האם יש חתימה&lt;br&gt;&amp;nbsp;במייל החיצוני?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-73" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;האם יש חתימה&lt;br&gt;&amp;nbsp;במייל החיצוני?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="1040" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-74" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;כפתור &quot;הפעלה&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-74" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;כפתור &quot;הפעלה&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-110" y="1065" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-80" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-78" target="FB623YIGrblfkWQ-ev6F-79">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-80" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-78" target="FB623YIGrblfkWQ-ev6F-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-82" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-78" target="FB623YIGrblfkWQ-ev6F-81">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-82" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-78" target="FB623YIGrblfkWQ-ev6F-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-78" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;האם החתימה הופעלה?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-78" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;האם החתימה הופעלה?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="1210" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-79" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;כפתורי &quot;ביטול ועדכון&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-79" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;כפתורי &quot;ביטול ועדכון&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-110" y="1235" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-81" target="FB623YIGrblfkWQ-ev6F-84">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-81" target="FB623YIGrblfkWQ-ev6F-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-81" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;כפתור &quot;ביטול&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-81" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;כפתור &quot;ביטול&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-83" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;כדי שהחתימה תופיע במייל יש לבצע לוגין בעוד 10 דקות&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;glass=0;fillStyle=dots;strokeColor=#2D7600;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-83" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;כדי שהחתימה תופיע במייל יש לבצע לוגין בעוד 10 דקות&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;glass=0;fillStyle=dots;strokeColor=#2D7600;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-160" y="990" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-84" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;כדי שהחתימה תוסר מה outlook&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;glass=0;fillStyle=dots;strokeColor=#2D7600;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-84" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;כדי שהחתימה תוסר מה outlook&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;glass=0;fillStyle=dots;strokeColor=#2D7600;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-200" y="1380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-85" value="ביטול" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-79" target="FB623YIGrblfkWQ-ev6F-84">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-85" value="ביטול" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-79" target="FB623YIGrblfkWQ-ev6F-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-320" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-86" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;כדי שהחתימה החדשה תופיע במייל..&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;glass=0;fillStyle=dots;strokeColor=#2D7600;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-86" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&quot;כדי שהחתימה החדשה תופיע במייל..&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;glass=0;fillStyle=dots;strokeColor=#2D7600;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=light-dark(#60A917,#6D94FF);gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-300" y="1169" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-89" value="עדכון" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=120;entryDy=25;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-79" target="FB623YIGrblfkWQ-ev6F-86">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-89" value="עדכון" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=120;entryDy=25;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-79" target="FB623YIGrblfkWQ-ev6F-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-92" value="הודעות ותגיות" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-92" value="הודעות ותגיות" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="930" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-125" value="Type = 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-93" target="FB623YIGrblfkWQ-ev6F-122">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-125" value="Type = 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-93" target="FB623YIGrblfkWQ-ev6F-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-93" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;homepage&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-93" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;homepage&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1142" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-99" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-94" target="FB623YIGrblfkWQ-ev6F-98">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-99" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-94" target="FB623YIGrblfkWQ-ev6F-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-101" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-94" target="FB623YIGrblfkWQ-ev6F-100">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-101" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-94" target="FB623YIGrblfkWQ-ev6F-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-94" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;האם מולא טופס&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;עדכון נתונים&lt;br&gt;&amp;nbsp;ל&lt;b style=&quot;&quot;&gt;כרטיסי ביקור ולא הודפס&lt;/b&gt;?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-94" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;האם מולא טופס&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;עדכון נתונים&lt;br&gt;&amp;nbsp;ל&lt;b style=&quot;&quot;&gt;כרטיסי ביקור ולא הודפס&lt;/b&gt;?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1150" y="330" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-95" value="Type = 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.523;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-93" target="FB623YIGrblfkWQ-ev6F-94">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-95" value="Type = 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.523;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-93" target="FB623YIGrblfkWQ-ev6F-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-98" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;לא תופיע תגית&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-98" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;לא תופיע תגית&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-100" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;תופיע תגית על כפתור&lt;br&gt;&amp;nbsp;&quot;הזמנת כרטיס ביקור פיזי&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-100" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;תופיע תגית על כפתור&lt;br&gt;&amp;nbsp;&quot;הזמנת כרטיס ביקור פיזי&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1300" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-102" value="Main flow" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-102" value="Main flow" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-140" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-106" value="Type = 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-104" target="FB623YIGrblfkWQ-ev6F-105">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-106" value="Type = 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-104" target="FB623YIGrblfkWQ-ev6F-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-104" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Card preview&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-104" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Card preview&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillStyle=dots;strokeColor=#2D7600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#60A917;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1150" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-108" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-105" target="FB623YIGrblfkWQ-ev6F-107">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-108" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-105" target="FB623YIGrblfkWQ-ev6F-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-110" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-105" target="FB623YIGrblfkWQ-ev6F-109">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-110" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-105" target="FB623YIGrblfkWQ-ev6F-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-105" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;האם הודפס כרטיס ביקור?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-105" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;האם הודפס כרטיס ביקור?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1155" y="720" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-107" value="לא תופיע הודעה" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-107" value="לא תופיע הודעה" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="980" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-109" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;תופיע הודעה מתחת לכפתור הזמנה: &quot;ראינו שהזמנת כרטיס בתאריך dd.mm.yy&quot; (מגיע משדה&lt;br&gt;DOP MAX)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-109" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;תופיע הודעה מתחת לכפתור הזמנה: &quot;ראינו שהזמנת כרטיס בתאריך dd.mm.yy&quot; (מגיע משדה&lt;br&gt;DOP MAX)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1330" y="830" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-120" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-122" target="FB623YIGrblfkWQ-ev6F-123">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-120" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-122" target="FB623YIGrblfkWQ-ev6F-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-121" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-122" target="FB623YIGrblfkWQ-ev6F-124">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-121" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FB623YIGrblfkWQ-ev6F-122" target="FB623YIGrblfkWQ-ev6F-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-122" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;האם מולא טופס&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;עדכון נתונים&lt;br&gt;&amp;nbsp;ל&lt;b&gt;חתימה במייל ולא הופעל&lt;/b&gt;?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-122" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;האם מולא טופס&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;עדכון נתונים&lt;br&gt;&amp;nbsp;ל&lt;b&gt;חתימה במייל ולא הופעל&lt;/b&gt;?&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1640" y="330" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-123" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;לא תופיע תגית&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-123" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;לא תופיע תגית&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1490" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-124" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;תופיע תגית על כפתור&lt;br&gt;&amp;nbsp;&quot;חתימה במייל החיצוני&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FB623YIGrblfkWQ-ev6F-124" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;תופיע תגית על כפתור&lt;br&gt;&amp;nbsp;&quot;חתימה במייל החיצוני&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1790" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-126" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;עמוד&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=dots;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="-30" width="120" height="60" as="geometry" />
+        <mxCell id="FB623YIGrblfkWQ-ev6F-126" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;עמוד&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=dots;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="650" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-130" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;מקרא:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="-80" width="60" height="30" as="geometry" />
+        <mxCell id="FB623YIGrblfkWQ-ev6F-130" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;מקרא:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-132" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.map;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="-80" width="30" height="30" as="geometry" />
+        <mxCell id="FB623YIGrblfkWQ-ev6F-132" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.map;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FB623YIGrblfkWQ-ev6F-133" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;חלונית הודעה&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#60A917,#6D94FF);fontColor=#ffffff;strokeColor=#2D7600;fillStyle=dots;gradientColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="FB623YIGrblfkWQ-ev6F-133" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;חלונית הודעה&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#60A917,#6D94FF);fontColor=#ffffff;strokeColor=#2D7600;fillStyle=dots;gradientColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="650" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
