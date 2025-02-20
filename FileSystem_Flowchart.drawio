@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Page-1" id="DkCKMyg1tVyzqoW7HSBp">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DzG2sHlEDpM7einmprK1-1" value="í ½í¿¦ &lt;strong data-start=&quot;1204&quot; data-end=&quot;1213&quot;&gt;Users&lt;/strong&gt; â†’ í ½í¿© &lt;strong data-start=&quot;1219&quot; data-end=&quot;1234&quot;&gt;API Gateway&lt;/strong&gt; â†’ í ½í¿§ &lt;strong data-start=&quot;1240&quot; data-end=&quot;1269&quot;&gt;File Service Microservice&lt;/strong&gt;&lt;br data-start=&quot;1269&quot; data-end=&quot;1272&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;â†³ í ½í¿¨ &lt;strong data-start=&quot;1313&quot; data-end=&quot;1327&quot;&gt;NetApp API&lt;/strong&gt; / í ½í¿© &lt;strong data-start=&quot;1333&quot; data-end=&quot;1357&quot;&gt;SharePoint Graph API&lt;/strong&gt;&lt;br data-start=&quot;1357&quot; data-end=&quot;1360&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;â†³ í ½í¿¦ &lt;strong data-start=&quot;1401&quot; data-end=&quot;1426&quot;&gt;SQL Server (Metadata)&lt;/strong&gt;&lt;br data-start=&quot;1426&quot; data-end=&quot;1429&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;â†³ í ½í¿§ &lt;strong data-start=&quot;1470&quot; data-end=&quot;1511&quot;&gt;Redis (Cache for Directory Structure)&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="380" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
