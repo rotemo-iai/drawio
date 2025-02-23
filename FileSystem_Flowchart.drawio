@@ -13,9 +13,6 @@
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SharePoint&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_sharepoint;" vertex="1" parent="1">
           <mxGeometry x="23.75" y="160" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cBA7sRYi_IcgjNRqiYrO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-4" target="cBA7sRYi_IcgjNRqiYrO-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NetAPP&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Azure_NetApp_Files.svg;" vertex="1" parent="1">
           <mxGeometry x="20" y="24" width="107.5" height="86" as="geometry" />
         </mxCell>
