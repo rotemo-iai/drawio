@@ -14,10 +14,10 @@
           <mxGeometry x="1272.26" y="14" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SharePoint&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_sharepoint;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-200" width="100" height="70" as="geometry" />
+          <mxGeometry x="1133" y="16" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NetAPP&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Azure_NetApp_Files.svg;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-216" width="107.5" height="86" as="geometry" />
+          <mxGeometry x="992.5" y="14" width="107.5" height="86" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ADFS&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/active_directory.svg;" vertex="1" parent="1">
           <mxGeometry x="395.29" y="14" width="84.71" height="72" as="geometry" />
@@ -162,6 +162,9 @@
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-108" value="Factory" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;" vertex="1" parent="1">
           <mxGeometry x="1120" y="495" width="90.96" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cBA7sRYi_IcgjNRqiYrO-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-110" target="cBA7sRYi_IcgjNRqiYrO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-110" value="NetApp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1123.22" y="360" width="84.52" height="50" as="geometry" />
         </mxCell>
@@ -228,6 +231,9 @@
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-137" value="Is &lt;br&gt;Chunk &lt;br&gt;Upload" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1351.5700000000002" y="440" width="81.37" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cBA7sRYi_IcgjNRqiYrO-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-138" target="cBA7sRYi_IcgjNRqiYrO-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-138" value="Sharepoint" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1233" y="360" width="84.52" height="50" as="geometry" />
