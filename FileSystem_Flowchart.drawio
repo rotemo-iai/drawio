@@ -283,7 +283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-156" value="is file &lt;br&gt;in cache" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1124.7900000000004" y="410" width="81.37" height="80" as="geometry" />
+          <mxGeometry x="1124.7900000000004" y="400" width="81.37" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-108" target="cBA7sRYi_IcgjNRqiYrO-138">
           <mxGeometry relative="1" as="geometry" />
@@ -326,6 +326,12 @@
               <mxPoint x="1236" y="562" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cBA7sRYi_IcgjNRqiYrO-200" value="Directory operations" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cBA7sRYi_IcgjNRqiYrO-201" value="Create" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="792" y="280" width="58" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
