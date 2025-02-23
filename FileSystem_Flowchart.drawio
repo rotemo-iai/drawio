@@ -297,7 +297,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-169" value="List files" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="529" width="58" height="50" as="geometry" />
+          <mxGeometry x="1260" y="529" width="58" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-176" value="Rename files" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1260" y="589" width="58" height="50" as="geometry" />
@@ -310,6 +310,15 @@
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.705;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-177" target="cBA7sRYi_IcgjNRqiYrO-108">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cBA7sRYi_IcgjNRqiYrO-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-111" target="cBA7sRYi_IcgjNRqiYrO-169">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="600" />
+              <mxPoint x="1236" y="600" />
+              <mxPoint x="1236" y="562" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
