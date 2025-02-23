@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="DkCKMyg1tVyzqoW7HSBp">
-    <mxGraphModel dx="3102" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,11 +239,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBA7sRYi_IcgjNRqiYrO-172" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-137" target="cBA7sRYi_IcgjNRqiYrO-108">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cBA7sRYi_IcgjNRqiYrO-172" value="No (or after &lt;br&gt;finish &lt;br&gt;upload to DB)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-137" target="cBA7sRYi_IcgjNRqiYrO-108">
+          <mxGeometry x="0.0005" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-137" value="Is &lt;br&gt;Chunk &lt;br&gt;Upload" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1514.7300000000002" y="410" width="81.37" height="80" as="geometry" />
+          <mxGeometry x="1517.4700000000003" y="410" width="81.37" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-138" target="cBA7sRYi_IcgjNRqiYrO-3">
           <mxGeometry relative="1" as="geometry" />
@@ -257,7 +259,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-143" value="Entity Framework" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1513.1599999999996" y="300" width="84.52" height="50" as="geometry" />
+          <mxGeometry x="1515.8999999999996" y="300" width="84.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-163" value="Yes - &lt;br&gt;download &lt;br&gt;from cache" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-156" target="cBA7sRYi_IcgjNRqiYrO-1">
           <mxGeometry x="0.3366" y="7" relative="1" as="geometry">
