@@ -160,13 +160,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-108" value="Factory" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1116.52" y="520" width="90.96" height="60" as="geometry" />
+          <mxGeometry x="1120" y="520" width="90.96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-110" target="cBA7sRYi_IcgjNRqiYrO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-110" value="NetApp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="400" width="84.52" height="50" as="geometry" />
+          <mxGeometry x="1123.22" y="400" width="84.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-111" target="cBA7sRYi_IcgjNRqiYrO-108">
           <mxGeometry relative="1" as="geometry" />
@@ -258,7 +258,7 @@
           <mxGeometry x="1349.9999999999998" y="310" width="84.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-153" value="Download" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="290" width="58" height="50" as="geometry" />
+          <mxGeometry x="1120" y="310" width="58" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
