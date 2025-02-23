@@ -223,6 +223,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cBA7sRYi_IcgjNRqiYrO-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-137" target="cBA7sRYi_IcgjNRqiYrO-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-137" value="Is &lt;br&gt;Chunk &lt;br&gt;Upload" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1351.5700000000002" y="440" width="81.37" height="80" as="geometry" />
         </mxCell>
@@ -230,7 +233,12 @@
           <mxGeometry x="1233" y="360" width="84.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.59;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-108" target="cBA7sRYi_IcgjNRqiYrO-138">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="450" />
+              <mxPoint x="1283" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cBA7sRYi_IcgjNRqiYrO-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cBA7sRYi_IcgjNRqiYrO-111" target="cBA7sRYi_IcgjNRqiYrO-137">
           <mxGeometry relative="1" as="geometry" />
