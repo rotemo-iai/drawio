@@ -467,7 +467,7 @@
             <mxPoint x="46" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CK9umGI7x9kUIgqdE483-1" value="Global Exception Handler" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CK9umGI7x9kUIgqdE483-1" value="Global Exception Handler (Manage&amp;nbsp; timeouts,&lt;br/&gt;&lt;br&gt;authentication failures, storage capacity issues, etc.)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="810" width="240" height="270" as="geometry" />
         </mxCell>
       </root>
