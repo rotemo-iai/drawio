@@ -64,13 +64,30 @@
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-23" target="Hzrix0PqcfKvZ3qZCdGW-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-28" target="Hzrix0PqcfKvZ3qZCdGW-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-28" value="Enrichment Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-20" target="Hzrix0PqcfKvZ3qZCdGW-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-33" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="243" y="621" width="87" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.929;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-28" target="Hzrix0PqcfKvZ3qZCdGW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-35" value="Long term analytics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hzrix0PqcfKvZ3qZCdGW-34">
+          <mxGeometry x="0.2181" y="4" relative="1" as="geometry">
+            <mxPoint x="10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-36" value="PostgreSQL" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="760" y="638" width="48" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
