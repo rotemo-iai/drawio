@@ -4,11 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-1" target="Hzrix0PqcfKvZ3qZCdGW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-1" value="WWW" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="200.00000000000003" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="200.00000000000003" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-6" target="Hzrix0PqcfKvZ3qZCdGW-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-15" value="Sends http requests&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hzrix0PqcfKvZ3qZCdGW-9">
+          <mxGeometry x="-0.5907" y="1" relative="1" as="geometry">
+            <mxPoint x="33" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="130" width="49.199999999999996" height="50.4" as="geometry" />
@@ -26,6 +34,18 @@
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-13" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="206" width="49.199999999999996" height="50.4" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-18" target="Hzrix0PqcfKvZ3qZCdGW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-18" value="API gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="193.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-20" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" vertex="1" parent="1">
+          <mxGeometry x="550" y="209.5" width="82.35" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-22" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="566.17" y="280" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
