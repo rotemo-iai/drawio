@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-1" value="WWW" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="190.9" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="200.00000000000003" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-6" target="Hzrix0PqcfKvZ3qZCdGW-1">
           <mxGeometry relative="1" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="130" width="49.199999999999996" height="50.4" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190.9" width="49.199999999999996" height="50.4" as="geometry" />
+          <mxGeometry x="40" y="210" width="49.199999999999996" height="50.4" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="49.199999999999996" height="50.4" as="geometry" />
