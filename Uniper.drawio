@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="I6Y-wbk0YoKE_FTUJRvd">
-    <mxGraphModel dx="1251" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,11 @@
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-28" target="Hzrix0PqcfKvZ3qZCdGW-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-38" value="Recent/&lt;br&gt;operational Queries" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hzrix0PqcfKvZ3qZCdGW-37">
+          <mxGeometry x="-0.1622" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-28" value="Enrichment Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -88,6 +93,25 @@
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-36" value="PostgreSQL" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="760" y="638" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-39" value="grafana" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="644" width="68" height="52.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.961;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-33" target="Hzrix0PqcfKvZ3qZCdGW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hzrix0PqcfKvZ3qZCdGW-40">
+          <mxGeometry x="0.2453" y="-4" relative="1" as="geometry">
+            <mxPoint x="11" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hzrix0PqcfKvZ3qZCdGW-40">
+          <mxGeometry x="-0.0234" y="-3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-43" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 14px; text-wrap-mode: wrap;&quot;&gt;Flutter code is on devices&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="70" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
