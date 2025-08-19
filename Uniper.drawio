@@ -35,17 +35,42 @@
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-13" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="206" width="49.199999999999996" height="50.4" as="geometry" />
         </mxCell>
-        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-18" target="Hzrix0PqcfKvZ3qZCdGW-20">
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-18" target="Hzrix0PqcfKvZ3qZCdGW-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-18" value="API gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="193.5" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-20" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" vertex="1" parent="1">
-          <mxGeometry x="550" y="209.5" width="82.35" height="61" as="geometry" />
+          <mxGeometry x="528.83" y="500" width="82.35" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Hzrix0PqcfKvZ3qZCdGW-22" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="566.17" y="280" width="50" height="30" as="geometry" />
+          <mxGeometry x="611.1800000000001" y="515.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-23" value="Ingestion Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360.4" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-23" target="Hzrix0PqcfKvZ3qZCdGW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-27" value="Push valid event to eventBus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hzrix0PqcfKvZ3qZCdGW-24">
+          <mxGeometry x="-0.281" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-25" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="770" y="369.4" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-23" target="Hzrix0PqcfKvZ3qZCdGW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-28" value="Enrichment Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hzrix0PqcfKvZ3qZCdGW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hzrix0PqcfKvZ3qZCdGW-20" target="Hzrix0PqcfKvZ3qZCdGW-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
