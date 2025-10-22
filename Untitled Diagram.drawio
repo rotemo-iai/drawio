@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="XEiT1kLDCRGGdZglAhm5">
-    <mxGraphModel dx="3443" dy="2465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2351" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,9 +31,9 @@
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-32" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="-630" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TR1ucW1oZCcEAV0Sezo2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-39" target="TR1ucW1oZCcEAV0Sezo2-56">
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-39" target="TR1ucW1oZCcEAV0Sezo2-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="-70" as="targetPoint" />
+            <mxPoint x="530" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-43" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherRequestDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-42">
@@ -68,14 +68,15 @@
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Check by Key &lt;br&gt;if entry exist &lt;br&gt;and not expired&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="-350" width="210" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TR1ucW1oZCcEAV0Sezo2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-56" target="TR1ucW1oZCcEAV0Sezo2-39">
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-56" target="TR1ucW1oZCcEAV0Sezo2-79">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="-255" as="sourcePoint" />
             <mxPoint x="507.44000000000005" y="-107.75999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-60" value="YES -&amp;nbsp;&amp;nbsp;return cached result -&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherResponseDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-59">
           <mxGeometry x="0.2705" y="3" relative="1" as="geometry">
-            <mxPoint x="133" y="-3" as="offset" />
+            <mxPoint x="29" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-63" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;b style=&quot;background-color: transparent; text-wrap-mode: nowrap; text-align: center;&quot;&gt;WeatherRequestDTO&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; &quot;latitude&quot;: 32.0853,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; &quot;longitude&quot;: 34.7818,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; &quot;utcDateTime&quot;: &quot;2025-10-22T15:00:00Z&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;align=left;" vertex="1" parent="1">
@@ -85,6 +86,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443.5" y="60" as="sourcePoint" />
             <mxPoint x="420" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-79" target="TR1ucW1oZCcEAV0Sezo2-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="-370" />
+              <mxPoint x="730" y="-370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-83" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherRequestDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-82">
+          <mxGeometry x="-0.1125" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-79" value="WetherAggregator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-79" target="TR1ucW1oZCcEAV0Sezo2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherResponseDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-80">
+          <mxGeometry x="0.3184" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
