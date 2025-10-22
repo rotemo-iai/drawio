@@ -44,7 +44,7 @@
             <mxPoint x="-50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR1ucW1oZCcEAV0Sezo2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-2" target="TR1ucW1oZCcEAV0Sezo2-30">
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-2" target="TR1ucW1oZCcEAV0Sezo2-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;WeatherInfo&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-20">
@@ -52,7 +52,7 @@
             <mxPoint x="39" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR1ucW1oZCcEAV0Sezo2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-30" target="TR1ucW1oZCcEAV0Sezo2-32">
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-30" target="TR1ucW1oZCcEAV0Sezo2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Store a cache entry&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-45">
