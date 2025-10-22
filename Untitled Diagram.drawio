@@ -112,6 +112,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.002;exitY=0.619;exitDx=0;exitDy=0;entryX=0.134;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;exitPerimeter=0;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-2" target="TR1ucW1oZCcEAV0Sezo2-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="-45" as="sourcePoint" />
+            <mxPoint x="1050" y="-77" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="-135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-89" value="Store response in cache (with TTL)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-88">
+          <mxGeometry x="-0.4099" y="-2" relative="1" as="geometry">
+            <mxPoint x="-68" y="-213" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
