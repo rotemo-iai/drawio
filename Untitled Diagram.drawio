@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="XEiT1kLDCRGGdZglAhm5">
-    <mxGraphModel dx="1893" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           <mxGeometry x="1430" y="40" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-140" width="800" height="500" as="geometry" />
+          <mxGeometry x="390" y="-140" width="800" height="500" as="geometry" />
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-4" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-130" y="70" width="455" height="60" as="geometry" />
@@ -43,7 +43,7 @@
             <mxPoint x="-50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR1ucW1oZCcEAV0Sezo2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-2" target="TR1ucW1oZCcEAV0Sezo2-3">
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-2" target="TR1ucW1oZCcEAV0Sezo2-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;WeatherInfo&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-20">
@@ -66,7 +66,7 @@
           <mxGeometry x="725" y="-180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-30" value="RAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-100" width="200" height="60" as="geometry" />
+          <mxGeometry x="920" y="135" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
