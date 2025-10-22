@@ -88,17 +88,18 @@
             <mxPoint x="1220" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR1ucW1oZCcEAV0Sezo2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;entryX=-0.009;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-52" target="TR1ucW1oZCcEAV0Sezo2-30">
+        <mxCell id="TR1ucW1oZCcEAV0Sezo2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;entryX=-0.009;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TR1ucW1oZCcEAV0Sezo2-52" target="TR1ucW1oZCcEAV0Sezo2-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="-250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="998" y="-70" />
+              <mxPoint x="710" y="-72" />
+              <mxPoint x="710" y="-72" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-61" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherRequestDTO&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR1ucW1oZCcEAV0Sezo2-55">
           <mxGeometry x="0.4277" y="-2" relative="1" as="geometry">
-            <mxPoint x="-106" y="-2" as="offset" />
+            <mxPoint x="-116" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TR1ucW1oZCcEAV0Sezo2-52" value="WeatherAggregatorService" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
