@@ -18,19 +18,8 @@
         <mxCell id="C_mojfmz8NE7oDex5nDW-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;High-traffic&lt;br&gt;&amp;nbsp;service&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="-810" width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="-714.9999999999998" as="sourcePoint" />
-            <mxPoint x="650" y="-1120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Store a &lt;b&gt;cache entry &lt;/b&gt;&lt;br&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherInfo&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-34">
-          <mxGeometry x="0.5474" y="-4" relative="1" as="geometry">
-            <mxPoint x="6" y="-41" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-36" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-1220" width="260" height="60" as="geometry" />
+          <mxGeometry x="680" y="-1170" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-39" target="C_mojfmz8NE7oDex5nDW-51">
           <mxGeometry relative="1" as="geometry">
@@ -46,11 +35,11 @@
           <mxGeometry x="-320" y="-636.5" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-40" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;b style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Cache Entry:&lt;br&gt;{&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;2025-10-22T15:00:00Z:tel-aviv&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: { ...WeatherDto... },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;TTL&quot;: 900000&lt;br&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-1040" width="270" height="110" as="geometry" />
+          <mxGeometry x="680" y="-1020" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="C_mojfmz8NE7oDex5nDW-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="-1000" as="sourcePoint" />
+            <mxPoint x="630" y="-1040" as="sourcePoint" />
             <mxPoint x="770" y="-800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
