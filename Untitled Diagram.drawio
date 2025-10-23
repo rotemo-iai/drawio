@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="XEiT1kLDCRGGdZglAhm5">
-    <mxGraphModel dx="2145" dy="2853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3141" dy="3355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C_mojfmz8NE7oDex5nDW-129" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-1660" width="1170" height="960" as="geometry" />
+        </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-32" target="C_mojfmz8NE7oDex5nDW-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -24,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-33" value="&lt;font&gt;High-traffic&lt;br&gt;&amp;nbsp;service&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-850" width="250" height="250" as="geometry" />
+          <mxGeometry x="1080" y="-690" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-36" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="479" y="-1590" width="260" height="60" as="geometry" />
@@ -219,7 +222,7 @@
           <mxGeometry x="280" y="-1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-126" value="&lt;u&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Cache Layer Get&amp;nbsp;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;WeatherInfo &lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Flow&lt;/span&gt;&lt;/font&gt;&lt;/u&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-1740" width="390" height="30" as="geometry" />
+          <mxGeometry y="-1710" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
