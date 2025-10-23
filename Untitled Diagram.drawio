@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-36" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-1150" width="260" height="60" as="geometry" />
+          <mxGeometry x="520" y="-1220" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-39" target="C_mojfmz8NE7oDex5nDW-51">
           <mxGeometry relative="1" as="geometry">
@@ -133,6 +133,16 @@
         <mxCell id="C_mojfmz8NE7oDex5nDW-57" value="Return&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherResponseDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-56">
           <mxGeometry x="0.0021" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_mojfmz8NE7oDex5nDW-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-58" target="C_mojfmz8NE7oDex5nDW-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499" y="-1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_mojfmz8NE7oDex5nDW-60" value="Store&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;WeatherResponseDTO&amp;nbsp;&lt;br&gt;&lt;/span&gt;in cache (with TTL)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-59">
+          <mxGeometry x="-0.0451" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-58" value="CacheService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
