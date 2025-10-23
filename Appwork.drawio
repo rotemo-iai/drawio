@@ -345,6 +345,19 @@
         <mxCell id="C_mojfmz8NE7oDex5nDW-234" value="now ≥ ExpiresAt ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2125" y="-1249" width="140" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="1WUKrTZ1wG0lh8lpJfil-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1WUKrTZ1wG0lh8lpJfil-7" target="C_mojfmz8NE7oDex5nDW-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2150" y="-1310" />
+              <mxPoint x="1786" y="-1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1WUKrTZ1wG0lh8lpJfil-9" value="Loop End -&amp;nbsp;Release WRITE lock" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1WUKrTZ1wG0lh8lpJfil-8">
+          <mxGeometry x="0.072" y="3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1WUKrTZ1wG0lh8lpJfil-7" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopStandard=1;dashed=1;dashPattern=8 8;strokeColor=default;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1990" y="-1280" width="320" height="180" as="geometry" />
         </mxCell>
