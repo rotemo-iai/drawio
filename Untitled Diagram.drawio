@@ -78,7 +78,7 @@
             <mxPoint x="-30" y="-570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-51" target="C_mojfmz8NE7oDex5nDW-44">
+        <mxCell id="C_mojfmz8NE7oDex5nDW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-51" target="C_mojfmz8NE7oDex5nDW-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-90" y="-890" />
@@ -149,6 +149,15 @@
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-64" value="Compute TTL (ms) via Policy" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357" y="-1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_mojfmz8NE7oDex5nDW-67" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; text-wrap-mode: nowrap; text-align: center; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;WeatherResponseDTO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&quot;location&quot;: &quot;Tel Aviv&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;utcDateTime&quot;: &quot;2025-10-22T15:00:00Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;temperatureC&quot;: 27.5,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;humidity&quot;: 60,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;description&quot;: &quot;Sunny&quot;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-695" y="-910" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C_mojfmz8NE7oDex5nDW-68" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="-750" as="sourcePoint" />
+            <mxPoint x="-370" y="-730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
