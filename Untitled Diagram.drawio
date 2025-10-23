@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="XEiT1kLDCRGGdZglAhm5">
-    <mxGraphModel dx="2091" dy="2826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2268" dy="2915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,109 +230,8 @@
         <mxCell id="C_mojfmz8NE7oDex5nDW-132" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2110" y="-1620" width="1170" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-135" target="C_mojfmz8NE7oDex5nDW-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-134" value="&lt;font&gt;GET: weather/32.0853,34.7818?date=2025-10-22&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-133">
-          <mxGeometry x="-0.3497" relative="1" as="geometry">
-            <mxPoint x="73" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-135" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="-580" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-138" target="C_mojfmz8NE7oDex5nDW-157">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-137" value="Return&amp;nbsp;&lt;b&gt;WeatherInfo&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-136">
-          <mxGeometry x="0.3775" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="-25" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-138" value="&lt;font&gt;High-traffic&lt;br&gt;&amp;nbsp;service&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="3500" y="-650" width="250" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-139" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2899" y="-1550" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-142" target="C_mojfmz8NE7oDex5nDW-148">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2500" y="-550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-141" value="&lt;span&gt;WeatherRequestDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-140">
-          <mxGeometry x="-0.4604" y="1" relative="1" as="geometry">
-            <mxPoint x="50" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-142" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;API Gateway&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="-596.5" width="76.5" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-143" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;b style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Cache Entry:&lt;br&gt;{&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp; &quot;key&quot;: &quot;2025-10-22T15:00:00Z:tel-aviv&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;value&quot;: { ...&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(238, 240, 255), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;WeatherInfo&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;... },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;TTL&quot;: 900000,&amp;nbsp;&lt;br&gt;&amp;nbsp; &quot;LastAccessed: 2025-10-21T15:00:00Z&lt;br&gt;}&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;align=left;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="-1570" width="270" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-144" value="&lt;span&gt;&amp;nbsp;Check by Key &lt;br&gt;if entry exist &lt;br&gt;and not expired&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="3020" y="-1212.5" width="150" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-145" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;b style=&quot;background-color: transparent; text-wrap-mode: nowrap; text-align: center;&quot;&gt;WeatherRequestDTO&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; &quot;latitude&quot;: 32.0853,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; &quot;longitude&quot;: 34.7818,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; &quot;utcDateTime&quot;: &quot;2025-10-22T15:00:00Z&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;align=left;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="-580" width="270" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-148" target="C_mojfmz8NE7oDex5nDW-157">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2330" y="-850" />
-              <mxPoint x="2700" y="-850" />
-              <mxPoint x="2700" y="-975" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-147" value="&lt;span&gt;1) WeatherRequestDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-146">
-          <mxGeometry x="-0.1125" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-148" value="WetherAggregator" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="-765" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-148" target="C_mojfmz8NE7oDex5nDW-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-150" value="&lt;span&gt;WeatherResponseDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-149">
-          <mxGeometry x="0.3184" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-171" target="C_mojfmz8NE7oDex5nDW-148">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-152" value="Return&amp;nbsp;&lt;span&gt;WeatherResponseDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-151">
-          <mxGeometry x="0.0021" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-157" target="C_mojfmz8NE7oDex5nDW-174">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2810" y="-1050" />
-              <mxPoint x="2725" y="-1050" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-154" value="5) Either Store Cache Entry &lt;br&gt;or update LastAccessd" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-153">
-          <mxGeometry x="0.2212" y="-3" relative="1" as="geometry">
-            <mxPoint x="-3" y="-44" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-157" target="C_mojfmz8NE7oDex5nDW-171">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-156" value="&lt;span&gt;6) Return WeatherInfo&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-155">
-          <mxGeometry x="0.3946" y="1" relative="1" as="geometry">
-            <mxPoint x="27" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-157" value="CacheService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2777" y="-1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="-1280" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-161" target="C_mojfmz8NE7oDex5nDW-175">
           <mxGeometry relative="1" as="geometry">
@@ -340,58 +239,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-161" target="C_mojfmz8NE7oDex5nDW-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-160" value="3)&amp;nbsp;Check Cache" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-159">
-          <mxGeometry x="-0.2" y="3" relative="1" as="geometry">
-            <mxPoint x="7" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-161" value="Build Cache Key (Compute TTL (ms) via Policy)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="2890" y="-1272.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-162" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; text-wrap-mode: nowrap; text-align: center; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;WeatherResponseDTO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;{&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&quot;location&quot;: &quot;Tel Aviv&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;utcDateTime&quot;: &quot;2025-10-22T15:00:00Z&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;temperatureC&quot;: 27.5,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;humidity&quot;: 60,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;description&quot;: &quot;Sunny&quot;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;align=left;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="-860" width="270" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-144" target="C_mojfmz8NE7oDex5nDW-139">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="C_mojfmz8NE7oDex5nDW-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" target="C_mojfmz8NE7oDex5nDW-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3095" y="-1212.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-164" value="4) Search" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-163">
           <mxGeometry x="0.0644" relative="1" as="geometry">
             <mxPoint x="41" y="51" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.993;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-144" target="C_mojfmz8NE7oDex5nDW-157">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-166" value="return cached result -&amp;nbsp;&lt;br&gt;&lt;span&gt;WeatherInfo&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-165">
-          <mxGeometry x="0.5729" y="1" relative="1" as="geometry">
-            <mxPoint x="45" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-167" value="YES - Cache Hit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-165">
-          <mxGeometry x="-0.763" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.53;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-144" target="C_mojfmz8NE7oDex5nDW-138">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-169" value="NO - Cache Miss" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-168">
-          <mxGeometry x="-0.5225" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-170" value="Cache miss or expired -&lt;br&gt;Pass&amp;nbsp;&lt;span&gt;WeatherRequestDTO&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-168">
-          <mxGeometry x="-0.2324" y="-2" relative="1" as="geometry">
-            <mxPoint x="19" y="27" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-171" value="Convert&lt;br&gt;WeatherInfo to&amp;nbsp;&lt;br&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;WeatherResponseDTO&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="-1050" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-172" value="Hit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-174" target="C_mojfmz8NE7oDex5nDW-182">
+        <mxCell id="C_mojfmz8NE7oDex5nDW-172" value="Hit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="C_mojfmz8NE7oDex5nDW-182">
           <mxGeometry x="-0.4545" relative="1" as="geometry">
             <mxPoint x="2760" y="-1390" as="targetPoint" />
             <Array as="points">
@@ -399,13 +260,13 @@
               <mxPoint x="2660" y="-1510" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="2680" y="-1195" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-173" value="Miss" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-174" target="C_mojfmz8NE7oDex5nDW-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-174" value="Hit/Miss?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="-1240" width="90" height="90" as="geometry" />
+        <mxCell id="C_mojfmz8NE7oDex5nDW-173" value="Miss" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="C_mojfmz8NE7oDex5nDW-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2770" y="-1195" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-175" value="&lt;span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Store&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;CacheEntry&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in memory (with TTL)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="2890" y="-1400" width="120" height="60" as="geometry" />
@@ -416,21 +277,6 @@
         <mxCell id="C_mojfmz8NE7oDex5nDW-177" value="Store" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-176">
           <mxGeometry x="-0.0533" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-157">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2900" y="-1020" as="sourcePoint" />
-            <mxPoint x="2912" y="-1210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2867" y="-1116" />
-              <mxPoint x="2912" y="-1116" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-179" value="2) Build Key and&lt;br&gt;Check if exist" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-178">
-          <mxGeometry x="-0.3246" y="-2" relative="1" as="geometry">
-            <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-182" target="C_mojfmz8NE7oDex5nDW-139">
@@ -449,6 +295,9 @@
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-184" value="&lt;u style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-shadow: none !important;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 24px; box-shadow: none !important; color: light-dark(rgb(238, 240, 255), rgb(255, 255, 255));&quot;&gt;Cache Layer&amp;nbsp;&lt;/font&gt;&lt;/u&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120" y="-1600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_mojfmz8NE7oDex5nDW-188" value="&lt;b&gt;Note&lt;/b&gt;: This process is logically separated for clarity. Physically implemented inside the Caching Layer." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="-1600" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
