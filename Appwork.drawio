@@ -288,12 +288,12 @@
         </mxCell>
         <mxCell id="C_mojfmz8NE7oDex5nDW-200" value="Move Node to Head (LRU marked as MRU)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="C_mojfmz8NE7oDex5nDW-199" vertex="1" connectable="0">
           <mxGeometry x="-0.0741" relative="1" as="geometry">
-            <mxPoint x="207" y="2" as="offset" />
+            <mxPoint x="267" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1WUKrTZ1wG0lh8lpJfil-16" value="Release READ lock" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-199">
           <mxGeometry x="-0.1184" y="3" relative="1" as="geometry">
-            <mxPoint x="13" y="5" as="offset" />
+            <mxPoint x="-7" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1WUKrTZ1wG0lh8lpJfil-17" value="YES&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-199">
@@ -418,6 +418,9 @@
           <mxGeometry x="0.2636" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1WUKrTZ1wG0lh8lpJfil-19" value="Acquire WRITE lock" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="-1680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
