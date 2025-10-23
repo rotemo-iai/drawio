@@ -248,7 +248,7 @@
         <mxCell id="C_mojfmz8NE7oDex5nDW-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.136;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C_mojfmz8NE7oDex5nDW-194" target="C_mojfmz8NE7oDex5nDW-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C_mojfmz8NE7oDex5nDW-200" value="YES&amp;nbsp; -&amp;nbsp;Move Node to Head (LRU mark MRU)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-199">
+        <mxCell id="C_mojfmz8NE7oDex5nDW-200" value="YES&amp;nbsp; -&amp;nbsp;Move Node to Head (LRU marked as MRU)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_mojfmz8NE7oDex5nDW-199">
           <mxGeometry x="-0.0741" relative="1" as="geometry">
             <mxPoint x="50" y="-3" as="offset" />
           </mxGeometry>
